@@ -16,3 +16,8 @@ Edge data centers (EDCs) support latency-sensitive applications but consume sign
 
 (3) Outperforms three existing ML-based MPC methods in both energy efficiency and thermal control
 
+🤝 Contact
+Feel free to reach out if you have questions or want to collaborate!
+
+📧 Email: E0974151@u.nus.edu
+
