@@ -19,13 +19,13 @@ Edge data centers (EDCs) support latency-sensitive applications but consume sign
 
 ## 🧠 Related publications
 
-*Adaptive physically consistent neural networks for data center thermal dynamics modeling*
+(1) *Adaptive physically consistent neural networks for data center thermal dynamics modeling*
 
 Dong Chen, Chee-Kong Chui, Poh Seng Lee
 
 Applied Energy (2025). https://doi.org/10.1016/j.apenergy.2024.124637
 
-*Physics informed model predictive control for intelligent operation of edge datacenters*
+(2) *Physics informed model predictive control for intelligent operation of edge datacenters*
 
 Dong Chen, Chee-Kong Chui, Poh Seng Lee
 
